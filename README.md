@@ -1,0 +1,10 @@
+- 👋 Hi, I’m Swaraj_Mohite from Pune, India.
+- 👀 I’m interested in Artificial Intelligence and Software Development..
+- 🌱 I’m pursuing Diploma from GPP...
+- 😄 I’m currently learning Web Development...
+- ⚡ Probably 15 years old....
+
+<!---
+SwarajMohite/SwarajMohite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
