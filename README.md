@@ -1,20 +1,24 @@
 
 ![logo](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
-<h1 align="center">Hi 👋, I'm Swaraj Mohite</h1>
-<h3 align="center">A passionate Programmer from India</h3><br><br><br><br><br>
 
-<img align="right" alt="CodingPic" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="400">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile%20views&color=0e75b6&style=flat" alt="SwarajMohite" />
+<h1 align="center">Hi, I'm Swaraj Mohite</h1>
+<h3 align="center">A passionate Programmer from India</h3>
+
+<div align="center">
+  <img align="right" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" alt="CodingPic" width="400">
+</div>
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 </p>
 
-- 🌱 I’m currently learning **Web Development**
-- 📫 How to reach me : **swarajmohite16@gmail.com**
-- ⚡ Fun fact : **I am probably 15 years old**
-
-<br><br><br>
+<p align="left">
+  🌱 I’m currently learning <strong>Web Development</strong><br>
+  📫 How to reach me: <strong>swarajmohite16@gmail.com</strong><br>
+  ⚡ Fun fact: <strong>I am probably 15 years old</strong>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -38,19 +42,16 @@
   </a>
 </p>
 
-<br><br><br><br>
+<br><br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarajMohite&show_icons=true&locale=en&layout=compact" alt="SwarajMohite" />
-</p>
-
-<p>
-  &nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SwarajMohite&show_icons=true&locale=en" alt="SwarajMohite" />
-</p>
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarajMohite&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SwarajMohite&show_icons=true&locale=en" alt="Stats">
+</div>
 
 <br><br><br><br><br><br><br><br><br>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMohite&" alt="SwarajMohite" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMohite" alt="Streak">
 </p>
