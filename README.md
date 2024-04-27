@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?&color=gradient&height=350&section=header&text=Hey,%20👋%20I%20am%20Swaraj!&fontSize=75&animation=fadeIn&fontColor=000000">
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A%20full%20time%20learner%20and%20programmer.;%20A%20Computer%20Engineering%20Student.&font=futura&fontSize=50&color=FFFFFF&fontStyle=italic)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A%20full%20time%20learner%20and%20programmer.;%20A%20Computer%20Engineering%20Student.&font=italic&fontSize=50&color=FFFFFF)
 
 
 ## 🚀 About Me
