@@ -1,5 +1,5 @@
  
-## Hi 👋, I'm Swaraj Mohite! 
+## Hey 👋, I'm Swaraj Mohite! 
 
 
 ## 🚀 About Me
@@ -47,27 +47,32 @@ I'm a full time learner and programmer
   </a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </p>
 
+##
+
 <br><br>
 
-##
+## 📈 My Github Stats
  <p align= " center">
-  <img align= " center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarajMohite&show_icons=true&locale=en&layout=compact" alt="Top Languages">
- </p>
- 
- ##
-  <p align= " center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMohite" alt="Streak">
   <img src="https://github-readme-stats.vercel.app/api?username=SwarajMohite&show_icons=true&locale=en" alt="Stats">
   </p>
 
 ##
 <p align= " center"> 
   <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
+
 </p>
 
 
 ##
-<p align= " center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMohite" alt="Streak">
+
+  <p align= " center">
+  <img align= " center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarajMohite&show_icons=true&locale=en&layout=compact" alt="Top Languages">
 </p>
+
+## ✍️ Random Dev Quote
+## "
+ AN OPTIMIST SAYS: The glass is half-full. A PESSIMIST SAYS: The glass is half-empty. <b>A PROGRAMMER SAYS: The glass is twice as large as necessary. </b> 
+## "
 
 
