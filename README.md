@@ -1,10 +1,11 @@
- 
-## Hey 👋, I'm Swaraj Mohite! 
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A%20full%20time%20learner%20and%20programmer.;%20A%20Computer%20Engineering%20Student.&font=futura)
 
 
 ## 🚀 About Me
-I'm a full time learner and programmer
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 
 
@@ -14,16 +15,16 @@ I'm a full time learner and programmer
 
 - 👀 I’m currently learning Web Development
 
-- 📫 How to reach me: swarajmohite16@gmail.com
+- 📫 How to reach me:   [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=red)](mailto:swarajmohite16@gmail.com)
 
 - ⚡ Fun fact: I am probably 15 years old CodeEnthusiast
 
 - 🧠 I enjoy mathematics and learning coding
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-##
 
-## 🛠 Skills
+## 🛠 Skills and Tools
 
  <p align= " center">
 
@@ -47,28 +48,31 @@ I'm a full time learner and programmer
   </a> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 </p>
 
-##
+
 
 <br><br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 📈 My Github Stats
  <p align= " center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMohite" alt="Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwarajMohite&show_icons=true&locale=en" alt="Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMohite&show_icons=true&locale=en&theme=dark" alt="Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwarajMohite&show_icons=true&locale=en&theme=dark" alt="Stats">
   </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ##
 <p align= " center"> 
-  <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
-
+  <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile%20views&color=0e75b6&style=flat&show_icons=true&locale=en&theme=dark" alt="Profile views">
+ 
 </p>
+
 
 
 ##
 
   <p align= " center">
-  <img align= " center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarajMohite&show_icons=true&locale=en&layout=compact" alt="Top Languages">
+  <img align= " center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarajMohite&layout=compact&show_icons=true&locale=en&theme=dark" alt="Top Languages">
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ✍️ Random Dev Quote
 ## "
@@ -76,3 +80,4 @@ I'm a full time learner and programmer
 ## "
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
