@@ -86,3 +86,29 @@
 
 
 <img src="https://capsule-render.vercel.app/api?&color=gradient&section=header&animation=fadeIn&height=150&invert=true">
+
+
+     
+    <div class="curve-container">
+        <svg width="100%" height="100%">
+            <!-- Define the curved line -->
+            <path d="M10,175 C150,50 150,300 290,175" stroke="#3498db" stroke-width="8" fill="none">
+                <!-- Add an animation to the stroke color -->
+                <animate
+                    attributeName="stroke"
+                    from="#3498db"
+                    to="#e74c3c"
+                    dur="3s"
+                    repeatCount="indefinite"
+                />
+                <!-- Add an animation to the opacity (fade in) -->
+                <animate
+                    attributeName="opacity"
+                    from="0"
+                    to="1"
+                    dur="1s"
+                    repeatCount="1"
+                />
+            </path>
+        </svg>
+    </div>
