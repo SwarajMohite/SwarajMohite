@@ -91,19 +91,5 @@
      
     
  
-                <animate
-                    attributeName="stroke"
-                    from="#3498db"
-                    to="#e74c3c"
-                    dur="3s"
-                    repeatCount="indefinite"
-                />
-                <!-- Add an animation to the opacity (fade in) -->
-                <animate
-                    attributeName="opacity"
-                    from="0"
-                    to="1"
-                    dur="1s"
-                    repeatCount="1"
-                />
+                
             
