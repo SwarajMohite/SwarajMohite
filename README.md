@@ -85,8 +85,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?&color=gradient&section=header&animation=fadeIn&height=150" style="filter: invert(100%);">
-
+<img src="https://capsule-render.vercel.app/api?&color=0:FFFFFF,100:000000&section=header&animation=fadeIn&height=150">
 
  
                 
