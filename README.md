@@ -85,4 +85,4 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?&color=gradient&section=header&animation=fadeIn&height=100&invert=true">
+<img src="https://capsule-render.vercel.app/api?&color=gradient&section=header&animation=fadeIn&height=150&invert=true">
