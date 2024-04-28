@@ -89,11 +89,8 @@
 
 
      
-    <div class="curve-container">
-        <svg width="100%" height="100%">
-            <!-- Define the curved line -->
-            <path d="M10,175 C150,50 150,300 290,175" stroke="#3498db" stroke-width="8" fill="none">
-                <!-- Add an animation to the stroke color -->
+    
+ 
                 <animate
                     attributeName="stroke"
                     from="#3498db"
@@ -109,6 +106,4 @@
                     dur="1s"
                     repeatCount="1"
                 />
-            </path>
-        </svg>
-    </div>
+            
