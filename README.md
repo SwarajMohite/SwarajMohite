@@ -85,7 +85,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?&color=0:000000,100:FFFFFF&section=header&animation=fadeIn&height=150">
+<img src="https://capsule-render.vercel.app/api?&color=0:000000,100:green&section=header&animation=fadeIn&height=150">
 
  
                 
