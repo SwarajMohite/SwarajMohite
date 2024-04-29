@@ -62,9 +62,13 @@
 
 ##
 <p align= " center"> 
-  <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile%20views&color=0e75b6&style=flat&show_icons=true&locale=en&theme=dark" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile%20Visit&color=0e75b6&style=flat&show_icons=true&locale=en&theme=dark" alt="Profile visits">
  
-[![](https://visitcount.itsvg.in/api?id=SwarajMohite05&icon=5&color=0)](https://visitcount.itsvg.in)
+<div style="display: flex; justify-content: center;">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=SwarajMohite05&icon=5&color=0" alt="Visit Count">
+    </a>
+</div>
 
 </p>
 
