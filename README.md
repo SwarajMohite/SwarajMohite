@@ -75,9 +75,32 @@
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+
+
+  <details>
+  <summary>Skills</summary>
+
+- Problem Solving
+- Researching & Learning
+- Web page designing
+- Anchoring 
+</details>
+
+<details>
+  <summary>Hobbies</summary>
+</br> 
+  📚 Writing & Reading 
+  🎧 Listening to Music
+  👨🏻‍💻 Learning
+  🔁 Drawing and Painting 
+</details>
+
+
 ## ✍️ Random Dev Quote
 ## "
- AN OPTIMIST SAYS: The glass is half-full. A PESSIMIST SAYS: The glass is half-empty. <b>A PROGRAMMER SAYS: The glass is twice as large as necessary. </b> 
+ 
+<i>AN OPTIMIST SAYS: The glass is half-full. A PESSIMIST SAYS: The glass is half-empty. <b>A PROGRAMMER SAYS: The glass is twice as large as necessary. </b></i>
+
 ## "
 
 
