@@ -89,10 +89,10 @@
 <details>
   <summary>Hobbies</summary>
 </br> 
- -  📚 Writing & Reading 
- -  🎧 Listening to Music
- -  👨🏻‍💻 Learning
- -  🔁 Drawing and Painting 
+ -  📚 Writing & Reading <br>
+ -  🎧 Listening to Music <br>
+ -  👨🏻‍💻 Learning <br>
+ -  🔁 Drawing and Painting <br>
 </details>
 
 
