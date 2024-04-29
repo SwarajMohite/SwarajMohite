@@ -66,7 +66,7 @@
  
 <div style="display: flex; justify-content: center;">
     <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=SwarajMohite05&icon=5&color=0" alt="Visit Count">
+        <img src="https://visitcount.itsvg.in/api?id=SwarajMohite&icon=5&color=0" alt="Visit Count">
     </a>
 </div>
 
