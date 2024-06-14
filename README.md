@@ -24,7 +24,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<i>Let's collaborate to create something big, new, and groundbreaking in the technological era—an exciting invention that will redefine the future!</i>
+<i>Let's collaborate to create something big, new, and groundbreaking in the technological era—an exciting and productive invention that will redefine the future!</i>
 
 ##
 
