@@ -28,26 +28,6 @@
 
 ##
 
-## Connect with me :
-
-<p align="center">
-<a href="https://www.hackerrank.com/profile/swarajmohite16" target="blank"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="SwarajMohite_HackerRank" height="40" width="40" /></a>
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://www.geeksforgeeks.org/user/swarajmous5f/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTsRGhVmdMtkHwtkOqYNc1XU8zoJ12BZPv2A&s" alt="SwarajMohite_GeekforGeeks" height="40" width="40" /></a>
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
- <a href="https://www.freecodecamp.org/Mohite_Swaraj" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzdH_hV9jMWJQa0nPVQo_8LEbL2fspSlwSw&s" alt="SwarajMohite_freecodecamp" height="40" width="40" /></a>
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
- <a href="https://replit.com/@swarajmohite16" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" alt="SwarajMohite_replit" height="40" width="40" /></a>
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
- <a href="https://leetcode.com/u/MohiteSwaraj16/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4h4yf5vhuu8_Dqf5VC1l1tFbIJ88N4H24jg&s" alt="SwarajMohite_leetcode" height="40" width="40" /></a>
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
- <a href="https://www.codechef.com/users/mohiteswaraj16" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ44admaBq2M_A9NhJeyux3BwNNmwUdy32dBA&s" alt="SwarajMohite_codechef" height="40" width="40" /></a>
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS95Z4YVYbM6SAVHtlkuUqaFnyVFoQG54p-7A&s" alt="Swaraj_springboard" height="40" width="40"/> 
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠 Skills and Tools
 
