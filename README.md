@@ -18,7 +18,7 @@
 
 - 📫 How to reach me:   [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=red)](mailto:swarajmohite16@gmail.com)
 
-- ⚡ Fun fact: I am probably 15 years old CodeEnthusiast
+- ⚡ Fun fact: I am probably 16 years old CodeEnthusiast
 
 - 🧠 I enjoy mathematics and learning coding
 
