@@ -91,11 +91,6 @@
   <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile%20Visit&color=0e75b6&style=flat&show_icons=true&locale=en&theme=dark" alt="Profile visits">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=SwarajMohite&icon=5&color=7&alignment=center)](https://visitcount.itsvg.in)
-
-
-
-
 
   <p align= " center">
   <img align= " center" src="https://github-contributor-stats.vercel.app/api?username=SwarajMohite&layout=compact&show_icons=true&locale=en&theme=dark&combine_all_yearly_contributions=true"alt="contribution">
