@@ -91,7 +91,7 @@
   <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile%20Visit&color=0e75b6&style=flat&show_icons=true&locale=en&theme=dark" alt="Profile visits">
 </p>
 
-[![](https://visitcount.itsvg.in/api?id=SwarajMohite&icon=5&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SwarajMohite&icon=5&color=7&alignment=center)](https://visitcount.itsvg.in)
 
 
 
