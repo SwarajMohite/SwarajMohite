@@ -10,7 +10,7 @@
 
 ## 
 
-- 👩‍💻 I'm interested in Software Development and Artificial Intelligence Machine Learning.  
+- 👩‍💻 I'm interested in Software Development and Artificial Intelligence 
 
 - 🌱 I’m currently pursuing Diploma in Computer Engineering from GP Pune
 
@@ -109,8 +109,7 @@
 - Problem Solving
 - Researching & Learning
 - Web page designing
-- Anchoring
-- Video Editing 
+- Anchoring 
 </details>
 
 <details>
@@ -123,7 +122,7 @@
 </details>
 
 
-## ✍️ A Dev Quote 
+## ✍️ Random Dev Quote
 ## "
  
 <i>AN OPTIMIST SAYS: The glass is half-full. A PESSIMIST SAYS: The glass is half-empty. <b>A PROGRAMMER SAYS: The glass is twice as large as necessary. </b></i>
