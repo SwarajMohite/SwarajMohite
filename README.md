@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact: I am probably 16 years old CodeEnthusiast
 
-- 🧠 I enjoy mathematics and learning coding
+- 🧠 I enjoy learning mathematics and coding, Exploring new things .
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
