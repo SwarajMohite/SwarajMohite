@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently pursuing Diploma in Computer Engineering from GP Pune
 
-- 👀 I’m currently learning Web Development
+- 👀 I’m currently learning Backend 😊
 
 - 📫 How to reach me:   [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=red)](mailto:swarajmohite16@gmail.com)
 
