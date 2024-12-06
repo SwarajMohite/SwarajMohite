@@ -122,7 +122,7 @@
 </details>
 
 
-## ✍️ Random Dev Quote
+## ✍️ Fav Dev Quote
 ## "
  
 <i>AN OPTIMIST SAYS: The glass is half-full. A PESSIMIST SAYS: The glass is half-empty. <b>A PROGRAMMER SAYS: The glass is twice as large as necessary. </b></i>
