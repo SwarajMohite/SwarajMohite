@@ -7,9 +7,18 @@
 
 ## 
 
+🌱 **Student | Aspiring Data Scientist | Cyber Security & AI/ML Enthusiast**
+
+---
+
+> “The sky’s not the limit; it’s just the beginning.” 🌌
+
+---
+
+
 - 👩‍💻 I'm interested in Software Development and Artificial Intelligence 
 
-- 🌱 I’m currently pursuing Diploma in Computer Engineering from GP Pune
+-  I’m currently pursuing Diploma in Computer Engineering from GP Pune
 
 - 👀 I’m currently learning Backend 😊
 
