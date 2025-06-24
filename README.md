@@ -1,136 +1,98 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=A%20full%20time%20learner%20and%20programmer.;%20A%20Computer%20Engineering%20Student.&font=italic&fontSize=50&color=FF4500&fontWeight=bold)
-
-
-## 🚀 About Me
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 
-
-🌱 **Student | Aspiring Data Scientist | Cyber Security & AI/ML Enthusiast**
-
----
-
-> “The sky’s not the limit; it’s just the beginning.” 🌌
-
----
-
-
-- 👩‍💻 I'm interested in Software Development and Artificial Intelligence 
-
--  I’m currently pursuing Diploma in Computer Engineering from GP Pune
-
-- 👀 I’m currently learning Backend 😊
-
-- 📫 How to reach me:   [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=red)](mailto:swarajmohite16@gmail.com)
-
-- ⚡ Fun fact: I am probably 16 years old CodeEnthusiast
-
-- 🧠 I enjoy learning mathematics and coding, Exploring new things.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<i>Let's collaborate to create something big, new, and groundbreaking in the technological era—an exciting and productive invention that will redefine the future!</i>
-
-##
-
-
-## 🛠 Skills and Tools
-
- <p align= "center">
-
-  <img src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="c" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <img src ="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="cplusplus" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="pythonBasics" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/a57a85ba-e2dd-4036-85b6-7e1532391627" alt="arduinoUNO" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrvwgpiqc9FrNeVcW-NQekpPIwIcktyys_nw&s" alt="netlify" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
-   </p>
-   
-   ##
-   <p align= " center">
-   <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figmaBasics" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="canva" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp </p>
-   
-   ##
-   <p align= " center">
-   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VScode" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" alt="Windows" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="linux" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    <a href="https://replit.com/@swarajmohite16" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png" alt="SwarajMohite_replit" height="40" width="40" /></a>
- &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-</p>
-
-## 🧰 Version Control
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="gitHub" width="40" height="40"/>
-   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey%20there!%20I'm%20Swaraj%20%F0%9F%91%8B&fontAlign=50&fontAlignY=40&color=gradient&desc=Welcome%20to%20my%20GitHub%20Profile&descAlign=50&descAlignY=60" />
+</p>
+
+<!-- Animated Typing Heading -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F97306&center=true&vCenter=true&width=750&lines=Computer+Engineering+Student;Aspiring+Data+Scientist+%26+Cybersecurity+Enthusiast;Lifelong+Learner%2C+Explorer%2C+Dreamer" />
 </p>
 
 
-<br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## 📈 My Github Stats
- <p align= " center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMohite&show_icons=true&locale=en&theme=dark" alt="Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwarajMohite&show_icons=true&locale=en&theme=dark" alt="Stats">
-  </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-##
-<p align= " center"> 
-  <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile%20Visit&color=0e75b6&style=flat&show_icons=true&locale=en&theme=dark" alt="Profile visits">
+## 📌 About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+
+- 🎓 Currently pursuing Diploma in **Computer Engineering** from **Government Polytechnic Pune**
+- 📍 India | Probably **16**
+- 🧠 Passionate about **Data Science**, **AI/ML**, **Backend Development**, and **Cybersecurity**
+- 📚 Always learning and exploring real-world tech with curiosity and purpose
+- ➕ I genuinely love Mathematics and solving problems
+- 📨 Mail me : [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=red)](mailto:swarajmohite16@gmail.com)
+
+---
+
+## 💡 Some Philosophy
+
+> *"The sky’s not the limit; it’s just the beginning."*
+
+I believe in continuous learning and open collaboration. I treat every repo not just as a project but as a **milestone in my growth**. My repos are a work in progress, real, evolving, and full of learning. 😉
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwarajMohite&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajMohite&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" width="48%" />
 </p>
 
-##
-
-  <p align= " center">
-  <img align= " center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarajMohite&layout=compact&show_icons=true&locale=en&theme=dark" alt="Top Languages">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile+Views&color=blue&style=flat" />
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+---
 
+## 🧠 Beyond Code
 
-  <details>
-  <summary>Skills</summary>
+<details>
+  <summary>🛠 What I Do</summary>
+  <br>
 
-- Problem Solving
-- Researching & Learning
-- Web page designing
-- Anchoring 
+  - Explore **AI, Cybersecurity, and emerging tech trends** in my free time
+  - Participate in hackathons and innovation challenges
+  - Build full-stack web projects using the MERN stack
+  - Read and learn continuously
+
 </details>
 
 <details>
-  <summary>Hobbies</summary>
-</br> 
- -  📚 Writing & Reading <br>
- -  🎧 Listening to Music <br>
- -  👨🏻‍💻 Learning <br>
- -  🔁 Drawing and Painting <br>
+  <summary>🎨 Hobbies & Interests</summary>
+  <br>
+
+  - 🎨 Sketching and concept design
+  - 🖋 Writing technical content & poetry
+  - 🎙 Anchoring and public speaking 
+  - 🎧 Listening to Indian classical      
+  - 🌐 Exploring philosophy + tech fusion  
+
 </details>
 
+---
 
-## ✍️ Fav Dev Quote
-## "
- 
-<i>AN OPTIMIST SAYS: The glass is half-full. A PESSIMIST SAYS: The glass is half-empty. <b>A PROGRAMMER SAYS: The glass is twice as large as necessary. </b></i>
+## 🧠 My Favorite Quote
 
-## "
+> 💬 *"An optimist says: The glass is half-full. A pessimist says: The glass is half-empty. A programmer says: The glass is twice as large as necessary."*
+
+---
+
+## 🤝 Say Hello
+<p align="center">
+
+  [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=red)](mailto:swarajmohite16@gmail.com)&nbsp;&nbsp;&nbsp;
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SwarajMohite)&nbsp;&nbsp;&nbsp;
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraj-mohite-04050731a/)&nbsp;&nbsp;&nbsp;
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4AB197?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swarajmohite.github.io/Portfolio-2.O/)&nbsp;&nbsp;&nbsp;
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Official_CodeUniverse)&nbsp;&nbsp;&nbsp;
+  [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MSwaraj16)
+
+</p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient" />
+</p>
