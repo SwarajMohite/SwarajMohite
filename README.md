@@ -34,13 +34,17 @@ I believe in continuous learning and open collaboration. I treat every repo not 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwarajMohite&show_icons=true&theme=tokyonight&border_radius=10&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwarajMohite&layout=compact&theme=tokyonight&langs_count=6&border_radius=10" width="48%" />
+<p align= " center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMohite&show_icons=true&locale=en&theme=dark" alt="Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=SwarajMohite&show_icons=true&locale=en&theme=dark" alt="Stats">
+  </p>
+
+<p align= " center"> 
+  <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile%20Visit&color=0e75b6&style=flat&show_icons=true&locale=en&theme=dark" alt="Profile visits">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SwarajMohite&label=Profile+Views&color=blue&style=flat" />
+<p align= " center">
+  <img align= " center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SwarajMohite&layout=compact&show_icons=true&locale=en&theme=dark" alt="Top Languages">
 </p>
 
 ---
@@ -79,7 +83,7 @@ I believe in continuous learning and open collaboration. I treat every repo not 
 ---
 
 ## 🤝 Say Hello
-<p align="center">
+<p align= " center">
 
   [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=red)](mailto:swarajmohite16@gmail.com)&nbsp;&nbsp;&nbsp;
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SwarajMohite)&nbsp;&nbsp;&nbsp;
