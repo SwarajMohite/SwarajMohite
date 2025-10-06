@@ -16,7 +16,7 @@
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
 
 - 🎓 Currently pursuing Diploma in **Computer Engineering** from **Government Polytechnic Pune**
-- 📍 India | Probably **16**
+- 📍 India | Probably **17**
 - 🧠 Passionate about **Data Science**, **AI/ML**, **Backend Development**, and **Cybersecurity**
 - 📚 Always learning and exploring real-world tech with curiosity and purpose
 - ➕ I genuinely love Mathematics and solving problems
