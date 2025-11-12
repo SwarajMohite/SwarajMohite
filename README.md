@@ -17,9 +17,9 @@
 
 - 🎓 Currently pursuing Diploma in **Computer Engineering** from **Government Polytechnic Pune**
 - 📍 India | Probably **17**
-- 🧠 Passionate about **Data Science**, **AI/ML**, **Backend Development**, and **Cybersecurity**
-- 📚 Always learning and exploring real-world tech with curiosity and purpose
-- ➕ I genuinely love Mathematics and solving problems
+- 🧠 Exploring **Data Science**, **AI/ML/Blockchain**, **Backend Development**, and **Cybersecurity**
+- 📚 Always learning and exploring real-world tech with curiosity and purpose.
+- ➕ I genuinely love Mathematics and solving problems.
 - 📨 Mail me : [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=red)](mailto:swarajmohite16@gmail.com)
 
 ---
