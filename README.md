@@ -90,7 +90,7 @@ I believe in continuous learning and open collaboration. I treat every repo not 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraj-mohite-04050731a/)&nbsp;&nbsp;&nbsp;
   [![Portfolio](https://img.shields.io/badge/Portfolio-4AB197?style=for-the-badge&logo=google-chrome&logoColor=white)](https://swarajmohite.github.io/Portfolio-2.O/)&nbsp;&nbsp;&nbsp;
   [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Official_CodeUniverse)&nbsp;&nbsp;&nbsp;
-  [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MSwaraj16)
+  [![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/swaraj_m16)
 
 </p>
 
