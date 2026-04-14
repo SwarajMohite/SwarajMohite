@@ -36,7 +36,7 @@ I believe in continuous learning and open collaboration. I treat every repo not 
 
 <p align= " center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMohite&show_icons=true&locale=en&theme=dark" alt="Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwarajMohite&show_icons=true&locale=en&theme=dark" alt="Stats">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SwarajMohite?theme=tokyonight" alt="Swaraj's GitHub Stats" width="43%" />
   </p>
 
 <p align= " center"> 
