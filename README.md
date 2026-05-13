@@ -33,16 +33,16 @@
 
 > *My GitHub Stats.*
 
-<!-- Dynamic Stats with custom themes & more data -->
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMohite&theme=radical&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&ring=00C2CB&fire=FF6F00&currStreakLabel=00C2CB" alt="Streak Stats" />
+</p>
+
 <p align="center">
   <a href="https://github.com/SwarajMohite">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SwarajMohite&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&line_height=24"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SwarajMohite&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=15&card_width=350"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwarajMohite&theme=radical&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&ring=00C2CB&fire=FF6F00&currStreakLabel=00C2CB" alt="Streak Stats" />
 </p>
 
 
