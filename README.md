@@ -20,9 +20,9 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding Animation">
 
-- 🎓 Currently pursuing Diploma in **Computer Engineering** from **Government Polytechnic Pune**
+- 🎓 Completed Diploma in **Computer Engineering** from **Government Polytechnic Pune**
 - 📍 India | **17**
-- 🧠 Exploring **Data Science**, **AI/ML/Blockchain**, **Backend Development**, and **Cybersecurity**
+- 🧠 Exploring **Full Stack Development** and **AI/ML/Blockchain**
 - 📚 Learning and exploring real-world tech with curiosity and purpose.
 - ➕ I love Mathematics and solving problems.
 - 📨 Mail me : [![Email](https://img.shields.io/badge/Mail-004788?style=for-the-badge&logo=gmail&logoColor=red)](mailto:swarajmohite16@gmail.com)
@@ -50,7 +50,7 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Connect & Build**
 
-> Let's turn ideas into reality.*
+> Let's turn ideas into reality.
 
 <p align="center">
   <a href="mailto:swarajmohite16@gmail.com" target="_blank">
