@@ -20,8 +20,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding Animation">
 
-- 🎓 Completed Diploma in **Computer Engineering** from **Government Polytechnic Pune**
-- 📍 India | **17**
+- 📍 India 
 - 🧠 Exploring **Full Stack Development** and **AI/ML/Blockchain**
 - 📚 Learning and exploring real-world tech with curiosity and purpose.
 - ➕ I love Mathematics and solving problems.
